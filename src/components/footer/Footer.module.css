@@ -1,0 +1,21 @@
+
+
+.footer-container {
+    /* border: 2px solid red; */
+    padding: 10px;
+    padding-bottom: 20px;
+}
+
+.footer-container p {
+    color: grey;
+
+}
+
+.footer-container p a {
+    text-decoration: none;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+.footer-container p a:hover {
+    color: black;
+}

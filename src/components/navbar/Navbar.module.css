@@ -1,0 +1,19 @@
+.nav-container {
+    /* border: 2px solid red; */
+    padding: 10px;
+    padding-top: 20px;
+}
+
+select {
+    border: none;
+    cursor: pointer;
+    transition: all 0.3s;
+    color: grey;
+    padding: 5px;
+}
+select::before {
+    border: none;
+}
+
+
+
