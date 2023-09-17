@@ -15,6 +15,7 @@
     text-decoration: none;
     cursor: pointer;
     transition: all 0.3s;
+    color: #0797df;
 }
 .footer-container p a:hover {
     color: black;
